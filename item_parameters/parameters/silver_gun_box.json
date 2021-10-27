@@ -1,0 +1,35 @@
+{
+    "show": true,
+    "active": false,
+    "child_frame": "siver_gun_box",
+    "parent_frame": "robot_facade_empty",
+    "transform": {
+        "translation": {
+            "x": -0.621,
+            "y": 1.057,
+            "z": 0.673
+        },
+        "rotation": {
+            "x": -0.05187465250492096,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.9986536502838135
+        }
+    },
+    "secondary_transforms": [],
+    "visualization": {
+        "mesh": "box_750.stl",
+        "show_mesh": true,
+        "interactive": false,
+        "quantity": 1.0,
+        "marker_scale": 0.05,
+        "fixed_marker": false,
+        "scale_x": 0.001,
+        "scale_y": 0.001,
+        "scale_z": 0.001,
+        "color_a": 1.0,
+        "color_r": 0.0,
+        "color_g": 0.0,
+        "color_b": 1.0
+    }
+}

@@ -59,10 +59,7 @@ source ~/item_prep_ws/install/local_setup.bash
 ```
 
 ## What to do next:
-1.  Get the item and tool meshes from:
-```
-https://app.box.com/folder/148049586212
-``` 
+1.  Get the item and tool meshes
 2. Extract the `preparation` folder to a convenient location.
 3. Edit this config file so that it matches your path for the `preparation` folder: 
 ```
